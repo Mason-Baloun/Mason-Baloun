@@ -108,14 +108,14 @@ mindmap
       Process Scheduling
     AI/ML
       LLM Training & Fine-tuning
-      TensorFlow & PyTorch
+      TensorFlow and PyTorch
       Computer Vision
       Speech Processing
     AR/VR
       Spatial Computing
       3D Interaction Design
-      Unity & C# Development
-      AR Foundation & XR Toolkit
+      Unity and C# Development
+      AR Foundation and XR Toolkit
 ```
 
 ## GitHub Metrics ⚡
