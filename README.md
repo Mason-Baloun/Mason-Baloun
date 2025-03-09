@@ -21,26 +21,24 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>45</h3>
-        <p>Total Contributions</p>
-        <p><small>Past Year</small></p>
-      </td>
-      <td align="center">
-        <h3>1</h3>
-        <p>Current Streak</p>
-        <p><small>Days</small></p>
-      </td>
-      <td align="center">
-        <h3>1</h3>
-        <p>Longest Streak</p>
-        <p><small>Days</small></p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 6px; margin-top: 20px;">
+  <div style="display: flex; justify-content: space-around; text-align: center;">
+    <div style="padding: 0 20px;">
+      <h2 style="color: #58a6ff; margin-bottom: 0;">45</h2>
+      <p style="color: #8b949e; margin-top: 5px;">Total Contributions</p>
+      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Past Year</p>
+    </div>
+    <div style="padding: 0 20px; border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
+      <h2 style="color: #58a6ff; margin-bottom: 0;">1</h2>
+      <p style="color: #8b949e; margin-top: 5px;">Current Streak</p>
+      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Days</p>
+    </div>
+    <div style="padding: 0 20px;">
+      <h2 style="color: #58a6ff; margin-bottom: 0;">1</h2>
+      <p style="color: #8b949e; margin-top: 5px;">Longest Streak</p>
+      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Days</p>
+    </div>
+  </div>
 </div>
 
 ---
