@@ -71,19 +71,19 @@ Computer Science student at UW-Madison passionate about AI and AR/VR development
 <table border="0">
 <tr>
     <td width="33%" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2171/2171322.png" width="50px" style="filter: brightness(1.5);"><br>
+        <img src="https://img.icons8.com/fluency/96/piano.png" width="50px"><br>
+        <strong>PEAR: Piano Education in AR</strong><br>
+        <sup>Unity • Meta Quest • AI</sup>
+    </td>
+    <td width="33%" align="center">
+        <img src="https://img.icons8.com/fluency/96/virtual-reality.png" width="50px"><br>
         <strong>AR-VR STEM Learning</strong><br>
         <sup>Unity • AR Foundation</sup>
     </td>
     <td width="33%" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/7358/7358397.png" width="50px" style="filter: brightness(1.5);"><br>
+        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50px"><br>
         <strong>LLM Fine-tuning Pipeline</strong><br>
         <sup>PyTorch • CUDA</sup>
-    </td>
-    <td width="33%" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/899/899014.png" width="50px" style="filter: brightness(1.5);"><br>
-        <strong>PEAR: Piano Education in AR</strong><br>
-        <sup>Unity • Meta Quest • AI</sup>
     </td>
 </tr>
 </table>
