@@ -41,10 +41,6 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  🚀 <strong>Building the impossible is what gets me out of bed in the morning</strong> 💡
-</div>
-
 ### 🎹 PEAR: Piano Education in Augmented Reality
 
 <p align="center">
@@ -223,8 +219,4 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mason-Baloun&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together!</i> 🚀
 </p>
