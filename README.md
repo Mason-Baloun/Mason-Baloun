@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher | AR/VR Developer | Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/-masonbaloun-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/-masonbaloun-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mbaloun@wisc.edu"><img src="https://img.shields.io/badge/-mbaloun@wisc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.cs.wisc.edu/"><img src="https://img.shields.io/badge/UW_Madison-CS-red?style=flat-square" alt="UW-Madison"/></a>
   <img src="https://komarev.com/ghpvc/?username=Mason-Baloun&color=blueviolet&style=flat-square" alt="Profile views" />
