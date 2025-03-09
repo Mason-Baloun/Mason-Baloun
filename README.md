@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mason Baloun</h1>
-<h3 align="center">AI Researcher | AR/VR Developer | Systems Engineer</h3>
+<h3 align="center">AI Engineer | AR/VR Developer | Systems Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/-masonbaloun-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
@@ -110,7 +110,7 @@ mindmap
       LLM Training & Fine-tuning
       TensorFlow & PyTorch
       Computer Vision
-      NLP & Speech Processing
+      Speech Processing
     AR/VR
       Spatial Computing
       3D Interaction Design
