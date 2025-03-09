@@ -18,7 +18,7 @@ Computer Science student at UW-Madison passionate about AI and AR/VR development
 
 - 🔭 Currently focused on **spatial computing** and **LLM applications**
 - 🌱 Learning **Rust**, **WebGPU**, and **distributed systems**
-- 💼 Seeking opportunities in **AI research** and **XR development**
+- 💼 Seeking opportunities in **AI research** and **AR/XR development**
 
 ## Tech Stack 💻
 
@@ -111,16 +111,26 @@ mindmap
       AR Foundation & XR Toolkit
 ```
 
-## Weekly Coding Stats 📊
+## GitHub Metrics ⚡
 
-<!--START_SECTION:waka-->
-```text
-Python      12 hrs 35 mins  ██████████▓░░░░░░░░░░░  42.5%
-C/C++       8 hrs 25 mins   ███████▒░░░░░░░░░░░░░░  28.4%
-Unity/C#    6 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░  20.9%
-Other       2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░   8.2%
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mason-Baloun&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<a href="https://github.com/Mason-Baloun/github-readme-activity-graph">
+  <img alt="Mason's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mason-Baloun&theme=tokyo-night&hide_border=true" />
+</a>
+
+## Tech Radar 📡
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6272a4', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6272a4', 'lineColor': '#6272a4', 'secondaryColor': '#bd93f9', 'tertiaryColor': '#44475a'}}}%%
+pie title Technologies I'm Exploring
+    "AI/ML" : 42.5
+    "Systems" : 28.4
+    "AR/VR" : 20.9
+    "Web3" : 8.2
 ```
-<!--END_SECTION:waka-->
 
 ## When I'm Not Coding 🌱
 
@@ -133,6 +143,11 @@ Other       2 hrs 25 mins   ██░░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mason-Baloun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mason-Baloun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<!-- Dynamic Quote - Updates Daily -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 <div align="center">
   
