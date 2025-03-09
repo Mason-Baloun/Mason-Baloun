@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-I'm a **Computer Science student at UW-Madison** on a mission to push technological boundaries. My passion lives at the intersection of **systems development**, **artificial intelligence**, and **AR/VR development**. When I'm not diving into code, you'll find me exploring cutting-edge VR innovations and experimenting with emerging technologies.
+I'm a **Computer Science student at UW-Madison** on a mission to push technological boundaries. My passion lives at the intersection of **artificial intelligence** and **AR/VR development**. When I'm not diving into code, you'll find me exploring cutting-edge VR innovations and software.
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
@@ -100,6 +100,14 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
       • Presented two security threats: flooding 911 dispatch with fake emergency calls and misleading Congressional representatives through fake constituent calls<br/>
       • Presented alongside 17 other university teams to Rep. Bill Foster (D-IL) and congressional staffers<br/>
       • Collaborated with Sam Baumohl, Jackson Kunde, and Elise Fischer on this critical security research
+    </td>
+  </tr>
+  <tr>
+    <td><b>Demo:</b></td>
+    <td>
+      <a href="https://www.loom.com/share/c6a439080a224d848b247dd2085b9668" target="_blank">
+        <img src="https://img.shields.io/badge/Watch_Demo-Loom-5CCCE0?style=for-the-badge&logo=loom&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
