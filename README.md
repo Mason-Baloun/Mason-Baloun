@@ -42,9 +42,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
-  <strong>Building the impossible is what gets me out of bed in the morning</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="25" height="25" />
+  🚀 <strong>Building the impossible is what gets me out of bed in the morning</strong> 💡
 </div>
 
 ### 🎹 PEAR: Piano Education in Augmented Reality
