@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mbaloun@wisc.edu"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/CS_@_UW_Madison-C5050C?style=for-the-badge&logo=wisconsin&logoColor=white" alt="UW-Madison"/>
+  <a href="https://www.cs.wisc.edu/"><img src="https://img.shields.io/badge/CS_@_UW_Madison-C5050C?style=for-the-badge&logo=wisconsin&logoColor=white" alt="UW-Madison"/></a>
 </p>
 
 ## 💡 About Me
@@ -70,7 +70,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   </tr>
 </table>
 
-### 🔒 AI-SafeCall: Securing Emergency Services from Voice AI Manipulation
+### 🔒 AI-Hotline-Manipulation-Demo: Securing Emergency Services from Voice AI Manipulation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> <i>Presented to Congressional leaders at CAIP's Advanced AI Expo</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />
