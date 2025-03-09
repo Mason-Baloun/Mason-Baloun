@@ -8,66 +8,54 @@
   <img src="https://komarev.com/ghpvc/?username=Mason-Baloun&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Image Carousel - Replace the existing GIF -->
-<div align="right" width="400">
-  <details open>
-    <summary><b>Portfolio Highlights 📸</b></summary>
-    <table width="400">
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image1.jpg" width="100%" alt="WAISI at the Capitol"/>
-          <p><b>WAISI at the Capitol</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image2.jpg" width="100%" alt="Me at the Capitol"/>
-          <p><b>Me at the Capitol</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image3.jpg" width="100%" alt="AI-Hotline-Manipulation-Demo"/>
-          <p><b>AI-Hotline-Manipulation-Demo</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image4.jpg" width="100%" alt="Programming Session with WAISI"/>
-          <p><b>Programming Session with WAISI</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image5.jpg" width="100%" alt="WAISI in the House of Representatives"/>
-          <p><b>WAISI in the House of Representatives</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image6.jpg" width="100%" alt="CAIP Demo Day"/>
-          <p><b>CAIP Demo Day</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image7.jpg" width="100%" alt="WAISI at the Monument"/>
-          <p><b>WAISI at the Monument</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image8.jpg" width="100%" alt="PEAR Startup Presentation"/>
-          <p><b>PEAR Startup Presentation</b></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./Portfolio-Assets/image9.jpg" width="100%" alt="PEAR Startup Presentation (cont)"/>
-          <p><b>PEAR Startup Presentation (cont)</b></p>
-        </td>
-      </tr>
-    </table>
+<div align="center">
+  <details>
+    <summary>▼ Portfolio Highlights 📸</summary>
+    <p align="center">
+      <img src="./Portfolio-Assets/image1.jpg" alt="WAISI at the Capitol">
+      <br>
+      <strong>WAISI at the Capitol</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image2.jpg" alt="Me at the Capitol">
+      <br>
+      <strong>Me at the Capitol</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image3.jpg" alt="AI-Hotline-Manipulation-Demo">
+      <br>
+      <strong>AI-Hotline-Manipulation-Demo</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image4.jpg" alt="Programming Session with WAISI">
+      <br>
+      <strong>Programming Session with WAISI</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image5.jpg" alt="WAISI in the House of Representatives">
+      <br>
+      <strong>WAISI in the House of Representatives</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image6.jpg" alt="CAIP Demo Day">
+      <br>
+      <strong>CAIP Demo Day</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image7.jpg" alt="WAISI at the Monument">
+      <br>
+      <strong>WAISI at the Monument</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image8.jpg" alt="PEAR Startup Presentation">
+      <br>
+      <strong>PEAR Startup Presentation</strong>
+    </p>
+    <p align="center">
+      <img src="./Portfolio-Assets/image9.jpg" alt="PEAR Startup Presentation (cont)">
+      <br>
+      <strong>PEAR Startup Presentation (cont)</strong>
+    </p>
   </details>
 </div>
 
