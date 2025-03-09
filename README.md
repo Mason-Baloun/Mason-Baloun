@@ -1,5 +1,3 @@
-## DC Trip Highlights 📸
-
 <details>
   <summary><b>Click to expand photo gallery</b></summary>
   <br>
