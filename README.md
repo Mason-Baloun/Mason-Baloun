@@ -12,53 +12,52 @@
   <details>
     <summary>▼ Portfolio Highlights 📸</summary>
     <p align="center">
-      <img src="./Portfolio-Assets/image1.jpg" alt="WAISI at the Capitol">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image1.jpg" alt="WAISI at the Capitol">
       <br>
       <strong>WAISI at the Capitol</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image2.jpg" alt="Me at the Capitol">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image2.jpg" alt="Me at the Capitol">
       <br>
       <strong>Me at the Capitol</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image3.jpg" alt="AI-Hotline-Manipulation-Demo">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image3.jpg" alt="AI-Hotline-Manipulation-Demo">
       <br>
       <strong>AI-Hotline-Manipulation-Demo</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image4.jpg" alt="Programming Session with WAISI">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image4.jpg" alt="Programming Session with WAISI">
       <br>
       <strong>Programming Session with WAISI</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image5.jpg" alt="WAISI in the House of Representatives">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image5.jpg" alt="WAISI in the House of Representatives">
       <br>
       <strong>WAISI in the House of Representatives</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image6.jpg" alt="CAIP Demo Day">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image6.jpg" alt="CAIP Demo Day">
       <br>
       <strong>CAIP Demo Day</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image7.jpg" alt="WAISI at the Monument">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image7.jpg" alt="WAISI at the Monument">
       <br>
       <strong>WAISI at the Monument</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image8.jpg" alt="PEAR Startup Presentation">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image8.jpg" alt="PEAR Startup Presentation">
       <br>
       <strong>PEAR Startup Presentation</strong>
     </p>
     <p align="center">
-      <img src="./Portfolio-Assets/image9.jpg" alt="PEAR Startup Presentation (cont)">
+      <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image9.jpg" alt="PEAR Startup Presentation (cont)">
       <br>
       <strong>PEAR Startup Presentation (cont)</strong>
     </p>
   </details>
 </div>
-
 ## About Me 💡
 
 Computer Science student at UW-Madison passionate about AI and AR/VR development. I love building tools that push the boundaries of human-computer interaction and exploring cutting-edge technologies.
