@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-I'm a **Computer Science student at UW-Madison** on a mission to push technological boundaries. My passion lives at the intersection of **low-level systems**, **artificial intelligence**, and **immersive technologies**. When I'm not diving into code, you'll find me exploring ways to democratize access to cutting-edge tech and revolutionize how we learn and interact with machines.
+I'm a **Computer Science student at UW-Madison** on a mission to push technological boundaries. My passion lives at the intersection of **systems development**, **artificial intelligence**, and **AR/VR development**. When I'm not diving into code, you'll find me exploring cutting-edge VR innovations and experimenting with emerging technologies.
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
