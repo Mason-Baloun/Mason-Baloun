@@ -117,20 +117,36 @@ mindmap
   <img src="https://github-profile-trophy.vercel.app/?username=Mason-Baloun&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<a href="https://github.com/Mason-Baloun/github-readme-activity-graph">
-  <img alt="Mason's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mason-Baloun&theme=tokyo-night&hide_border=true" />
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Mason's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mason-Baloun&theme=tokyo-night&hide_border=true" />
 </a>
 
-## Tech Radar 📡
+## Dynamic Stats 📊
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6272a4', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6272a4', 'lineColor': '#6272a4', 'secondaryColor': '#bd93f9', 'tertiaryColor': '#44475a'}}}%%
-pie title Technologies I'm Exploring
-    "AI/ML" : 42.5
-    "Systems" : 28.4
-    "AR/VR" : 20.9
-    "Web3" : 8.2
-```
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mason-Baloun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <!-- Dynamic Coding Stats -->
+  <a href="https://wakatime.com/@Mason-Baloun">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mason-Baloun&hide_border=true&theme=tokyonight&layout=compact" alt="Wakatime Coding Stats" />
+  </a>
+</div>
+
+## Spotify Now Playing 🎧
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+
+## Visitor Count by Country 🌎
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Mason-Baloun}/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mason-Baloun&icon=5&color=6" alt="Visitor Count by Country" />
+</p>
 
 ## When I'm Not Coding 🌱
 
