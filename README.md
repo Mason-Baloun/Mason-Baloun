@@ -1,31 +1,4 @@
-<details>
-  <summary><b>Click to expand photo gallery</b></summary>
-  <br>
-  <div align="center">
-    <table>
-      <tr>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_1.jpg" width="250px" alt="Capitol Building"/></td>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_2.jpg" width="250px" alt="AI Policy Event"/></td>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_3.jpg" width="250px" alt="Meeting with Rep. Foster"/></td>
-      </tr>
-      <tr>
-        <td align="center"><i>Capitol Building</i></td>
-        <td align="center"><i>AI Policy Event</i></td>
-        <td align="center"><i>Meeting with Rep. Foster</i></td>
-      </tr>
-      <tr>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_4.jpg" width="250px" alt="Smithsonian Visit"/></td>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_5.jpg" width="250px" alt="Team Photo"/></td>
-        <td><img src="https://user-images.githubusercontent.com/YOUR_ID/dc_trip_6.jpg" width="250px" alt="Project Presentation"/></td>
-      </tr>
-      <tr>
-        <td align="center"><i>Smithsonian Visit</i></td>
-        <td align="center"><i>Team Photo</i></td>
-        <td align="center"><i>Project Presentation</i></td>
-      </tr>
-    </table>
-  </div>
-</details><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mason Baloun</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mason Baloun</h1>
 <h3 align="center">AI Researcher | AR/VR Developer | Systems Engineer</h3>
 
 <p align="center">
