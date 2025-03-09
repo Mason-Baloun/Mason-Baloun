@@ -2,55 +2,39 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AR%2FVR+Innovator;AI+Researcher;Systems+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AR%2FVR+Innovator;AI+Researcher;Systems+Developer;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
   
 </div>
 
-<div align="center">
-  <h3>Systems Developer</h3>
+<p align="center">
   <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mbaloun@wisc.edu"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/CS_@_UW_Madison-C5050C?style=for-the-badge&logo=wisconsin&logoColor=white" alt="UW-Madison"/>
-</div>
+</p>
 
----
-
-## 👨‍💻 About Me
+## 💡 About Me
 
 I'm a **Computer Science student at UW-Madison** on a mission to push technological boundaries. My passion lives at the intersection of **systems development**, **artificial intelligence**, and **AR/VR development**. When I'm not diving into code, you'll find me exploring cutting-edge VR innovations and experimenting with emerging technologies.
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 6px; margin-top: 20px;">
-  <div style="display: flex; justify-content: space-around; text-align: center;">
-    <div style="padding: 0 20px;">
-      <h2 style="color: #58a6ff; margin-bottom: 0;">45</h2>
-      <p style="color: #8b949e; margin-top: 5px;">Total Contributions</p>
-      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Past Year</p>
-    </div>
-    <div style="padding: 0 20px; border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
-      <h2 style="color: #58a6ff; margin-bottom: 0;">1</h2>
-      <p style="color: #8b949e; margin-top: 5px;">Current Streak</p>
-      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Days</p>
-    </div>
-    <div style="padding: 0 20px;">
-      <h2 style="color: #58a6ff; margin-bottom: 0;">1</h2>
-      <p style="color: #8b949e; margin-top: 5px;">Longest Streak</p>
-      <p style="color: #8b949e; font-size: 12px; margin-top: 0;">Days</p>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mason-Baloun&theme=tokyonight&hide_border=true" alt="Mason's streak" />
 </div>
 
----
-
-## 🔧 Tech Stack
+## 🔥 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
 </div>
 
 ---
@@ -60,7 +44,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 ### 🎹 PEAR: Piano Education in Augmented Reality
 
 <p align="center">
-  <em>Transforming how we learn music through spatial computing</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> <i>Transforming how we learn music through spatial computing</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />
 </p>
 
 <table>
@@ -75,9 +59,9 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   <tr>
     <td><b>Tech:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Engine-Unity-000?style=flat-square&logo=unity"/>
-      <img src="https://img.shields.io/badge/AR%2FVR-Meta%20Quest%203-blue?style=flat-square&logo=oculus"/>
-      <img src="https://img.shields.io/badge/AI-Gemini%2FLLMs-orange?style=flat-square&logo=openai"/>
+      <img src="https://img.shields.io/badge/Engine-Unity-000?style=for-the-badge&logo=unity"/>
+      <img src="https://img.shields.io/badge/AR%2FVR-Meta%20Quest%203-blue?style=for-the-badge&logo=oculus"/>
+      <img src="https://img.shields.io/badge/AI-Gemini%2FLLMs-orange?style=for-the-badge&logo=openai"/>
     </td>
   </tr>
   <tr>
@@ -86,12 +70,10 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   </tr>
 </table>
 
-<br>
-
 ### 🔒 AI-SafeCall: Securing Emergency Services from Voice AI Manipulation
 
 <p align="center">
-  <em>Presented to Congressional leaders at CAIP's Advanced AI Expo</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> <i>Presented to Congressional leaders at CAIP's Advanced AI Expo</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />
 </p>
 
 <table>
@@ -106,9 +88,9 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   <tr>
     <td><b>Tech:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/AI-Voice_Synthesis-orange?style=flat-square&logo=tensorflow"/>
-      <img src="https://img.shields.io/badge/Research-Policy-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python"/>
+      <img src="https://img.shields.io/badge/AI-Voice_Synthesis-orange?style=for-the-badge&logo=tensorflow"/>
+      <img src="https://img.shields.io/badge/Research-Policy-green?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -120,22 +102,12 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
       • Collaborated with Sam Baumohl, Jackson Kunde, and Elise Fischer on this critical security research
     </td>
   </tr>
-  <tr>
-    <td><b>Demo:</b></td>
-    <td>
-      <a href="https://www.loom.com/share/c6a439080a224d848b247dd2085b9668" target="_blank">
-        <img src="https://img.shields.io/badge/Watch_Demo-Loom-5CCCE0?style=for-the-badge&logo=loom&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
 </table>
-
-<br>
 
 ### 🐧 WSH & XV6: Systems Programming Masterclass
 
 <p align="center">
-  <em>Diving deep into operating system internals</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> <i>Diving deep into operating system internals</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />
 </p>
 
 <table>
@@ -154,9 +126,9 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   <tr>
     <td><b>Tech:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c"/>
-      <img src="https://img.shields.io/badge/Assembly-NASM-red?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OS-Linux/XV6-yellow?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c"/>
+      <img src="https://img.shields.io/badge/Assembly-NASM-red?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OS-Linux/XV6-yellow?style=for-the-badge&logo=linux&logoColor=black"/>
     </td>
   </tr>
 </table>
@@ -168,7 +140,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="40"/>
         <br/>
         <b>LLM Fine-tuning Pipeline</b>
@@ -176,7 +148,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
       </td>
-      <td align="center" width="33%">
+      <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" alt="AR Glasses" width="40"/>
         <br/>
         <b>AR-VR STEM Learning</b>
@@ -184,7 +156,7 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/AR-0D96F6?style=flat-square&logo=arkit&logoColor=white"/>
       </td>
-      <td align="center" width="33%">
+      <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="40"/>
         <br/>
         <b>SortK Text Processor</b>
@@ -196,43 +168,33 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   </table>
 </div>
 
----
-
 ## 💻 Skills Breakdown
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h4>🛠️ Systems</h4>
-      <ul>
-        <li>Operating Systems Design</li>
-        <li>Kernel Development</li>
-        <li>Memory Management</li>
-        <li>Process Scheduling</li>
-      </ul>
+    <td>
+      <b>🔬 Systems</b><br/>
+      Operating Systems Design<br/>
+      Kernel Development<br/>
+      Memory Management<br/>
+      Process Scheduling
     </td>
-    <td align="center" width="33%">
-      <h4>🤖 AI/ML</h4>
-      <ul>
-        <li>LLM Training & Fine-tuning</li>
-        <li>TensorFlow & PyTorch</li>
-        <li>Computer Vision</li>
-        <li>NLP & Speech Processing</li>
-      </ul>
+    <td>
+      <b>🤖 AI/ML</b><br/>
+      LLM Training & Fine-tuning<br/>
+      TensorFlow & PyTorch<br/>
+      Computer Vision<br/>
+      NLP & Speech Processing
     </td>
-    <td align="center" width="33%">
-      <h4>🥽 AR/VR</h4>
-      <ul>
-        <li>Spatial Computing</li>
-        <li>3D Interaction Design</li>
-        <li>Unity & C# Development</li>
-        <li>AR Foundation & XR Toolkit</li>
-      </ul>
+    <td>
+      <b>🥽 AR/VR</b><br/>
+      Spatial Computing<br/>
+      3D Interaction Design<br/>
+      Unity & C# Development<br/>
+      AR Foundation & XR Toolkit
     </td>
   </tr>
 </table>
-
----
 
 ## 🎯 Currently Learning
 
@@ -241,8 +203,6 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
   <img src="https://img.shields.io/badge/WebGPU-202020?style=for-the-badge&logo=webassembly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Distributed_Systems-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
-
----
 
 ## 🌱 When I'm Not Coding...
 
@@ -254,7 +214,6 @@ I'm a **Computer Science student at UW-Madison** on a mission to push technologi
 ---
 
 <div align="center">
-  <h3>Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mason-Baloun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
