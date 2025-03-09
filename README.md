@@ -11,23 +11,10 @@
 ## 📸 Portfolio Highlights
 
 <div align="center">
-  <div>
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image1.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image2.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image3.jpg" width="32%" />
-  </div>
-  <br>
-  <div>
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image4.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image5.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image6.jpg" width="32%" />
-  </div>
-  <br>
-  <div>
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image7.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image8.jpg" width="32%" />
-    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image9.jpg" width="32%" />
-  </div>
+  <a href="https://mason-baloun.github.io/portfolio-slideshow/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mason-Baloun/Mason-Baloun/main/Portfolio-Assets/image1.jpg" width="800px" alt="Portfolio Slideshow - Click to view interactive version">
+  </a>
+  <p><b>⬆️ Click the image to view my interactive portfolio slideshow ⬆️</b></p>
 </div>
 
 ## About Me 💡
