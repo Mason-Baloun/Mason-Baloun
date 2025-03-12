@@ -139,7 +139,7 @@ mindmap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mason-Baloun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Mason-Baloun&theme=tokyonight&hide_border=true" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Mason-Baloun&theme=dark" />
 />onerror="this.style.display='none'" />
 </div>
 
