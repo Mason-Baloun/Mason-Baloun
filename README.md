@@ -111,6 +111,7 @@ Computer Science student at UW-Madison building practical AI/ML applications, im
 ## Skills Breakdown
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#64fcd9','primaryTextColor':'#fff','primaryBorderColor':'#64fcd9','lineColor':'#64fcd9','secondaryColor':'#1a1a1a','tertiaryColor':'#2a2a2a'}}}%%
 mindmap
   root((Skills))
     AI/ML
