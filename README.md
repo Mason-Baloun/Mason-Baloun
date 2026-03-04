@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/masonbaloun"><img src="https://img.shields.io/badge/-masonbaloun-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Mason-Baloun"><img src="https://img.shields.io/badge/-Mason--Baloun-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:mbaloun@wisc.edu"><img src="https://img.shields.io/badge/-mbaloun@wisc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.cs.wisc.edu/"><img src="https://img.shields.io/badge/UW_Madison-CS-red?style=flat-square" alt="UW-Madison"/></a>
   <img src="https://komarev.com/ghpvc/?username=Mason-Baloun&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -48,30 +49,30 @@ Computer Science student at UW-Madison building practical AI/ML applications, im
 <summary><b>Beyond Words - 1st Place Google AI Hackathon</b></summary>
 <br>
 <b>Problem:</b> Traditional language learning is slow and expensive<br>
-<b>Solution:</b> Gamified AI language learning platform with strategic card mechanics<br>
-<b>Tech:</b> Next.js, React, Gemini API, AI Voice Synthesis<br>
-<b>Impact:</b> Production-ready AI pipeline validated by Google engineers<br>
-<b>Demo:</b> <a href="https://www.youtube.com/watch?v=BvGfV5cJTj0"><img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=flat-square&logo=youtube" /></a>
+<b>Solution:</b> Gamified AI language learning platform with strategic card mechanics and generative AI<br>
+<b>Tech:</b> Next.js, React, Gemini API, Firebase<br>
+<b>Impact:</b> Built in 24 hours, validated as production-ready AI content pipeline by Google engineers<br>
+<b>Links:</b> <a href="https://www.youtube.com/watch?v=awSkJoIZENI"><img src="https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube" /></a>
 </details>
 
 <details>
 <summary><b>PEAR: Piano Education in Augmented Reality</b></summary>
 <br>
 <b>Problem:</b> Piano instruction is expensive and inaccessible<br>
-<b>Solution:</b> AR platform with real-time feedback and AI-powered instruction<br>
-<b>Tech:</b> Unity, Meta Quest 3, Gemini/LLMs<br>
-<b>Impact:</b> UW-Madison Spring 2024 Tech Exploration Lab Demo (Sponsored by Google)<br>
-<b>Demo:</b> <a href="https://www.youtube.com/watch?v=apYvMDs31bA"><img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=flat-square&logo=youtube" /></a>
+<b>Solution:</b> AR system overlaying spatially anchored note guidance onto physical keyboard<br>
+<b>Tech:</b> Unity, Meta Quest 3, Spatial Computing<br>
+<b>Impact:</b> UW-Madison Spring 2024 Tech Exploration Lab Demo (Google-Sponsored)<br>
+<b>Links:</b> <a href="https://www.youtube.com/watch?v=apYvMDs31bA"><img src="https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube" /></a>
 </details>
 
 <details>
-<summary><b>Rover XR - AR Mars Exploration Simulator</b></summary>
+<summary><b>Rover XR - XR Control System with Real-Time Edge AI</b></summary>
 <br>
-<b>Challenge:</b> Building immersive educational experiences for space exploration<br>
-<b>Solution:</b> Mobile AR app with real-time terrain scanning and rover simulation<br>
-<b>Tech:</b> Unity, AR Foundation, Google Gemini<br>
-<b>Recognition:</b> UW-Madison CS Capstone Project<br>
-<b>Demo:</b> <a href="https://www.youtube.com/watch?v=TkjyIONkcjE"><img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=flat-square&logo=youtube" /></a>
+<b>Challenge:</b> Building immersive control interfaces for robotics with real-time computer vision<br>
+<b>Solution:</b> XR interface controlling physical rover with edge AI object detection pipeline<br>
+<b>Tech:</b> Unity, YOLOv8, XR, Raspberry Pi, Real-time UDP/UART communication<br>
+<b>Recognition:</b> Honorable Mention at MadData26<br>
+<b>Links:</b> <a href="https://www.youtube.com/watch?v=TkjyIONkcjE"><img src="https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube" /></a> <a href="https://devpost.com/software/rover-xr"><img src="https://img.shields.io/badge/View-Devpost-003057?style=flat-square" /></a>
 </details>
 
 <details>
@@ -87,7 +88,7 @@ Computer Science student at UW-Madison building practical AI/ML applications, im
 ## Current Focus
 
 <div align="center">
-<table border="0">
+<table border="0">  
 <tr>
     <td width="33%" align="center">
         <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50px"><br>
@@ -110,7 +111,7 @@ Computer Science student at UW-Madison building practical AI/ML applications, im
 
 ## Skills Breakdown
 
-```mermaid
+```mermaidad
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ffffff','primaryTextColor':'#000000','primaryBorderColor':'#64fcd9','lineColor':'#64fcd9','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','mainBkg':'#ffffff','secondaryBkg':'#ffffff','tertiaryBkg':'#ffffff'}}}%%
 mindmap
   root((Skills))
